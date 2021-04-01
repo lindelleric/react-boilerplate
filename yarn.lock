@@ -4307,16 +4307,6 @@ mixin-deep@^1.2.0:
   dependencies:
     minimist "^1.2.5"
 
-mobx-react-lite@^2.0.7:
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/mobx-react-lite/-/mobx-react-lite-2.0.7.tgz#1bfb3b4272668e288047cf0c7940b14e91cba284"
-  integrity sha512-YKAh2gThC6WooPnVZCoC+rV1bODAKFwkhxikzgH18wpBjkgTkkR9Sb0IesQAH5QrAEH/JQVmy47jcpQkf2Au3Q==
-
-mobx@^5.15.4:
-  version "5.15.4"
-  resolved "https://registry.yarnpkg.com/mobx/-/mobx-5.15.4.tgz#9da1a84e97ba624622f4e55a0bf3300fb931c2ab"
-  integrity sha512-xRFJxSU2Im3nrGCdjSuOTFmxVDGeqOHL+TyADCGbT0k4HHqGmx5u2yaHNryvoORpI4DfbzjJ5jPmuv+d7sioFw==
-
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
@@ -6992,9 +6982,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^2.1.2:
   version "2.1.2"
